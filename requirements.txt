@@ -1,0 +1,6 @@
+flask
+scikit-learn
+pymupdf
+python-docx
+pandas
+nltk
